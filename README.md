@@ -1,2 +1,4 @@
-# magicspaces
-magic spaces interior
+# 
+Homepage of Home Interior Design developed using HTML, CSS & Javascript
+#
+
