@@ -1,4 +1,4 @@
 # 
-Homepage of Home Interior Design developed using HTML, CSS & Javascript
+magic spaces site developed using HTML, CSS & Javascript
 #
 
